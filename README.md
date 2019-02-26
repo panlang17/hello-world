@@ -1,2 +1,2 @@
 # hello-world
-just another respository
+I am a  student from  NKU.
